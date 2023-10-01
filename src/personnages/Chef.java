@@ -41,6 +41,8 @@ public class Chef {
 		this.effetPotion = effetPotion;
 	}
 	
+	public static void main(String[] args) {
 	
+	}
 		
 }
