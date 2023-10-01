@@ -16,6 +16,7 @@ public class Romain {
 	
 	public String getNom() {
 		return nom;
+		
 	}
 	public int getForce() {
 		return force;
